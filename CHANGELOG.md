@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/20236005-NguyenHuuTuanTu/Git-initialization/compare/v1.2.1...v2.0.0) (2026-02-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* **helloworld:** major case one
+
+### Features
+
+* **helloworld:** major case one ([7a6f8f1](https://github.com/20236005-NguyenHuuTuanTu/Git-initialization/commits/7a6f8f1dcbaa98943e02b9592d1e144df4a30030))
+
 ### [1.2.1](https://github.com/20236005-NguyenHuuTuanTu/Git-initialization/compare/v1.2.0...v1.2.1) (2026-02-25)
 
 ## [1.2.0](https://github.com/20236005-NguyenHuuTuanTu/Git-initialization/compare/v1.1.2...v1.2.0) (2026-02-25)
