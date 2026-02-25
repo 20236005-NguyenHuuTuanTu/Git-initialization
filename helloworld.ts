@@ -4,3 +4,5 @@ console.log("World");
 
 // Test sai chuan commit
 // Test commit chuan
+// Test bump version
+// Patch case
