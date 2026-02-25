@@ -1,3 +1,6 @@
-console.log("Welcome to Github!");
-console.log("Hello ");
-console.log("World");
+function greeting(name: string): string {
+    return `Hello, ${name}!`;
+}
+
+const userName = "Thủy";
+console.log(greeting(userName));
