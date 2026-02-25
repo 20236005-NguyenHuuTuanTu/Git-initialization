@@ -6,3 +6,4 @@ console.log("World");
 // Test commit chuan
 // Test bump version
 // Patch case
+// Feat case
