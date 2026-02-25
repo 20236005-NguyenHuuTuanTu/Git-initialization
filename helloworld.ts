@@ -7,3 +7,4 @@ console.log("World");
 // Test bump version
 // Patch case
 // Feat case
+// Major case v1
