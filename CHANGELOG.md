@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/20236005-NguyenHuuTuanTu/Git-initialization/compare/v1.1.2...v1.2.0) (2026-02-25)
+
+
+### Features
+
+* **helloworld:** feat case ([b111671](https://github.com/20236005-NguyenHuuTuanTu/Git-initialization/commits/b1116719a23821836056575c63d9de737d7986bc))
+
 ### [1.1.2](https://github.com/20236005-NguyenHuuTuanTu/Git-initialization/compare/v1.1.1...v1.1.2) (2026-02-25)
 
 ### [1.1.1](https://github.com/20236005-NguyenHuuTuanTu/Git-initialization/compare/v1.1.0...v1.1.1) (2026-02-25)
