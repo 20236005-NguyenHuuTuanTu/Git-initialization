@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+### [2.0.3](https://github.com/20236005-NguyenHuuTuanTu/Git-initialization/compare/v2.0.0...v2.0.3) (2026-02-28)
+
+
+### Bug Fixes
+
+* add doc test ([08920c6](https://github.com/20236005-NguyenHuuTuanTu/Git-initialization/commits/08920c6deb19d57e13fde423ef8da96266b331a9))
+* add style test ([1f0640c](https://github.com/20236005-NguyenHuuTuanTu/Git-initialization/commits/1f0640cc1b4a2c696d52ec1a5e9e9406ea362cce))
+* fix test ([76527af](https://github.com/20236005-NguyenHuuTuanTu/Git-initialization/commits/76527af4727dd0d0907fcdec515b71ae83330075))
+
 ### [2.0.2](https://github.com/20236005-NguyenHuuTuanTu/Git-initialization/compare/v2.0.1...v2.0.2) (2026-02-28)
 
 
