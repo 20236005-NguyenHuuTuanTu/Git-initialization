@@ -1,6 +1,15 @@
 # Changelog
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+All notable changes to this project will be documented in this file.
+
+### [2.0.2](https://github.com/20236005-NguyenHuuTuanTu/Git-initialization/compare/v2.0.1...v2.0.2) (2026-02-28)
+
+
+### Bug Fixes
+
+* test ([ae414a8](https://github.com/20236005-NguyenHuuTuanTu/Git-initialization/commits/ae414a81d3bfeef4e1920ab70ee262ef46d68df2))
+
+### [2.0.1](https://github.com/20236005-NguyenHuuTuanTu/Git-initialization/compare/v2.0.0...v2.0.1) (2026-02-28)
 
 ## [2.0.0](https://github.com/20236005-NguyenHuuTuanTu/Git-initialization/compare/v1.2.1...v2.0.0) (2026-02-25)
 
